@@ -1,3 +1,6 @@
-cd python_socket_project
+Open two terminals run the first two commands in both.
 
-source venv/bin/activate
+1. cd python_socket_project
+
+2. source venv/bin/activate
+
